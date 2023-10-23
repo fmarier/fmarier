@@ -1,16 +1,16 @@
-### Hi there 👋
+FOSS developer interested in security, privacy and decentralization.
 
-<!--
-**fmarier/fmarier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Homepage](https://fmarier.org/)
+- [LinkedIn](https://www.linkedin.com/in/fmarier)
+- [Blog](https://feeding.cloud.geek.nz/)
+- [Mastodon](https://fosstodon.org/@fmarier)
+- [Twitter](https://twitter.com/fmarier)
+- Email: francois@fmarier.org
 
-Here are some ideas to get you started:
+Some of my projects are hosted outside of GitHub:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Debian](https://qa.debian.org/developer.php?login=francois%40debian.org)
+- [safe-rm](https://launchpad.net/safe-rm)
+- [planetfilter](https://launchpad.net/planetfilter)
+- [email-reminder](https://launchpad.net/email-reminder)
+- [Canadian Ham Exam](https://launchpad.net/canadian-ham-exam)
