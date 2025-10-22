@@ -1,10 +1,11 @@
-FOSS developer interested in security, privacy and decentralization.
+FOSS developer interested in security, privacy and resilient systems.
 
 - [Homepage](https://fmarier.org/)
 - [LinkedIn](https://www.linkedin.com/in/fmarier)
 - [Blog](https://feeding.cloud.geek.nz/)
 - [Mastodon](https://fosstodon.org/@fmarier)
-- [Twitter](https://twitter.com/fmarier)
+- [Bluesky](https://bsky.app/profile/fmarier.org)
+- [X](https://x.com/fmarier)
 - Email: francois@fmarier.org
 
 Some of my projects are hosted outside of GitHub:
